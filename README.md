@@ -11,6 +11,6 @@
 We develop Games, a powerful Game company that designs everything! 
 
 
-- [[Owner](https://github.com/relaxoo)](https://github.com/relaxoo)
+- [[Owner]]https://github.com/relaxoo)
 - [[Guide]](https://github.com/relaxoo)
 - [[Project]](https://github.com/relaxoo)
